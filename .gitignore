@@ -1,0 +1,14 @@
+# Ignore build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code settings
+.vscode/
+
+# Other temp/log
+*.log
+*.tmp
